@@ -23,10 +23,12 @@ My work often focuses on:
 - [soul-nav](https://github.com/leeyorke/soul-nav) — Your private browser navigation page
 - [oasis-gtd](https://github.com/leeyorke/oasis-gtd) — get things done with AI assistant
 - [epub-translate](https://github.com/leeyorke/epub-translate) — translate EPUB books with ease
-- [nanobott](https://github.com/leeyorke/nanobot) — A fork The Ultra-Lightweight Personal AI Assistant" from nanobot
+- [nanobot](https://github.com/leeyorke/nanobot) — A fork The Ultra-Lightweight Personal AI Assistant" from nanobot
 - [auto-epub](https://github.com/leeyorke/auto-epub) — a agent for translate epub file
 - [dsh-proxy](https://github.com/leeyorke/dsh-proxy) — A deepseek-harness plugin for forwarding LAN ports to the local machine, frok from upstream, enabling "vibe coding" across multiple devices.
 - [rose](https://github.com/leeyorke/rose) — Declarative DSL for writing test cases
+- [Resume](https://github.com/leeyorke/Resume) — A personal resume template written in Typst.
+- [ngsl-book](https://github.com/leeyorke/ngsl-book) — Covers all 2,809 entries of the NGSL 1.2 word list using 12 English articles.
 
 ### Current focus
 - AI agents and agentic workflows
